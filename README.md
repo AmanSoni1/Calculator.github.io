@@ -1,2 +1,1 @@
-# Calculator.github.io
-Calculator using HTML,CSS and JavaScript
+Made a Calculator using CSS and JavaScript with HTML
